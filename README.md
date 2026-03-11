@@ -1,4 +1,4 @@
-<h1 align="center">Manh100k Web3</h1>
+<h1 align="center">Mr.Pasam Web3</h1>
 
 <p align="center">
   <img src="./banner.png" alt="Mr.Pasam Banner"/>

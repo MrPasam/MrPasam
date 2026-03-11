@@ -27,21 +27,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
 ## 🚀 Projects
 
 - **Shelby** — Incentiv Participant  
-- **Molody** — Community Contributor / KOL  
-- **Finggen** — Ambassador  
+- **Walrus** — Community Contributor / KOL  
+- **MOCA** — Support Community  
 
 ---
 
